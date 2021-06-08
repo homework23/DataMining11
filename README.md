@@ -1,2 +1,3 @@
-# DataMining11
-a11.2018.10931
+ DataMining11
+# A11.2018.10931
+# SAMUEL YANG
